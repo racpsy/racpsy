@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 this ric
+🔭 I’m currently working on my computer
 
 <!--
 **racpsy/racpsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
