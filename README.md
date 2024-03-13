@@ -1,4 +1,4 @@
-### Hi there 👋 this ric
+### Hi there 👋 this is ric
 🔭 I’m currently working on my computer
 
 <!--
